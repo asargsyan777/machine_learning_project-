@@ -28,4 +28,3 @@ setup(
   install_requires=get_requirements_list()
 
 )
-
